@@ -3,8 +3,8 @@
     <br>
     <b>CUBE GUI</b>
     <br>
-    <sup>
-        GITHUB REPOSITORY
-    </sup>
+    <sub>
+        ADVANCED UI TECHNOLOGY
+    </sub>
     <br>
 </h1>
