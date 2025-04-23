@@ -4,7 +4,7 @@
     <b>CUBE GUI</b>
     <br>
     <sup>
-        GITHUB REPOSITORY
+        OFFICIAL REPOSITORY
     </sup>
     <br>
 </h1>
