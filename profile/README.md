@@ -1,10 +1,11 @@
 <h1 align="center">
-        <img width="99" height="auto" alt="Iron Language" src="https://raw.githubusercontent.com/cube-gui/.github/refs/heads/main/profile/assets/cubegui-logo.png">
+    <img width="99" height="auto" alt="Cube GUI  Language" src="https://raw.githubusercontent.com/cube-gui/.github/refs/heads/main/profile/assets/cubegui-logo.png">
     <br>
-    <b>CUBE GUI</b>
+    <strong>CUBE GUI</strong>
     <br>
-    <sub>
-        ADVANCED UI TECHNOLOGY
-    </sub>
-    <br>
+    <sup>
+        <sub>
+            RENDERING ⬡ RESPONSE ⬡ INTERFACE
+        </sub>
+    </sup>
 </h1>
